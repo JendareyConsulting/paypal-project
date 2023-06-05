@@ -3,7 +3,7 @@
 * ignore files
 - aws_credentials
 - azure_credentials
-- credentials
+- credentials/*
 
 * ignore folder and files inside 
 - apache/index.html
