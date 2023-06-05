@@ -1,0 +1,13 @@
+## sample .gitignore file structure
+
+* ignore files
+- aws_credentials
+- azure_credentials
+- credentials
+
+* ignore folder and files inside 
+- apache/index.html
+- apache/config.html
+
+* ignore complete folder
+- apache/*
